@@ -1,5 +1,3 @@
-
-
 # 📱 App Gallery
 
 **App Gallery** is a modern web platform designed to showcase and recommend mobile and web applications across various categories such as Trending, Education, Productivity, and Healthcare. It provides users with an intuitive interface to discover top-rated apps, view download stats, and stay informed about upcoming tech events, hackathons, and product updates.
