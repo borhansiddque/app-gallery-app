@@ -59,10 +59,10 @@ To run this project on your local machine:
 
 ```bash
 # Clone the repository
-git clone https://github.com/borhan-siddque/appgallery.git
+git clone https://github.com/borhansiddque/app-gallery-app.git
 
 # Navigate into the project directory
-cd appgallery
+cd app-gallery-app
 
 # Install dependencies
 npm install
@@ -80,7 +80,3 @@ The app will run at `http://localhost:5173`
 ![App Gallery Screenshot](https://i.ibb.co/ycZPrmVg/app-gallery.png)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
